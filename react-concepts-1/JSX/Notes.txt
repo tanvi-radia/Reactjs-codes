@@ -1,0 +1,4 @@
+// JSX = JavaScript XML
+// allows us to write HTML in React
+// makes easier to write and add HTML in React
+// JSX allows to write HTML elements in JavaScript without any createElement() or appendChild() methods

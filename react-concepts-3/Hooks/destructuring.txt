@@ -1,0 +1,4 @@
+const vehicles = ['mustang', 'f-150', 'expedition'];
+const [car, truck, suv] = vehicles;
+// Assinging values of vehicles to variable
+const [car, truck, suv] = ['mustang', 'f-150', 'expedition'];

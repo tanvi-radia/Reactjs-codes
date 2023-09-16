@@ -1,0 +1,1 @@
+// useEffect: To increment value every second
